@@ -1,10 +1,10 @@
-local bump = require 'libs.bump.bump'
-local Gamestate = require 'libs.hump.gamestate'
-local mainMenu = require 'gamestates.mainmenu'
-local gameLevel1 = require 'gamestates.gameLevel1'
-local serialize = require 'libs.ser.ser'
-require 'libs.boton'
-local sprites = require 'entities.sprites'
+local bump = require "libs.bump.bump"
+local Gamestate = require "libs.hump.gamestate"
+local mainMenu = require "gamestates.mainMenu"
+local gameLevel1 = require "gamestates.gameLevel1"
+local serialize = require "libs.ser.ser"
+require "libs.boton"
+local sprites = require "entities.sprites"
 local utf8 = require "utf8"
 data={1,"",1,1,0}
 local cursor = love.mouse.newCursor(mousex(2))
