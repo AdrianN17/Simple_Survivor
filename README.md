@@ -1,11 +1,15 @@
 Simple Survivor 2d top down game make in Love2d
 
-Music from gameart2d.com
+Music from www.gameart2d.com
 
-UI and sprites from Kenney.nl
+UI and sprites from www.Kenney.nl
 
 Libraries used: STI, HUMP, BUMP,SER
 
---Implementaciones futuras
+Entity source code from http://www.osmstudios.com/page/tutorials (platformer tutorial)
 
-Multiplayer y App movil
+Boton source code from http://robologs.net/2015/08/17/programar-botones-con-love2d-y-lua/
+
+--Future implementations
+
+Multiplayer and android APK
