@@ -1,5 +1,6 @@
 local Gamestate = require 'libs.hump.gamestate'
 local Class = require 'libs.hump.class'
+local mainMenu = require 'gamestates.mainmenu'
 local LevelBase = require 'gamestates.LevelBase'
 local camera = require 'libs.camera'
 local Player = require 'entities.player'
