@@ -1,5 +1,7 @@
 Simple Survivor 2d top down game make in Love2d
 
+The current game only have a two player (one is a doppelganger)
+
 Music from www.gameart2d.com
 
 UI and sprites from www.Kenney.nl
