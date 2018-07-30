@@ -12,6 +12,8 @@ Entity source code from http://www.osmstudios.com/page/tutorials (platformer tut
 
 Boton source code from http://robologs.net/2015/08/17/programar-botones-con-love2d-y-lua/
 
---Future implementations
+Future implementations
 
 Multiplayer and android APK
+
+Maybe change Bump library for HC, Camera for Gamera  ... in progress.
