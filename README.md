@@ -16,4 +16,4 @@ Future implementations
 
 Multiplayer and android APK
 
-Maybe change Bump library for HC, Camera for Gamera  ... in progress.
+Maybe change Bump library to HC, Camera to Gamera  ... in progress.
